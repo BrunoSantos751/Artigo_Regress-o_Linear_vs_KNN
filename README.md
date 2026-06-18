@@ -1,4 +1,4 @@
-# Análise Preditiva de Notas de Estudantes: Regressão Linear vs KNN
+# Análise Preditiva de Notas de Estudantes: Regressão Linear vs KNN.
 
 Este repositório contém o código-fonte e o artigo final do projeto "Análise Preditiva de Notas de Estudantes Baseada em uma Comparação entre os Algoritmos Regressão Linear e K-Nearest Neighbors", desenvolvido por alunos do curso de Ciência da Computação do Centro Universitário de Maceió (UNIMA).
 
